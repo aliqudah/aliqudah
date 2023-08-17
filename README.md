@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ali MohammadAlqudah a PhD Student and Research Assistant @ University of Manitoba
+- 👋 Hi, I’m Ali Mohammad Alqudah a PhD Student and Research Assistant @ University of Manitoba
 - 👀 I’m interested in Machine Learning and Deep Learning and Their Applications in Medicine
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on achine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on machine Learning and Deep Learning
 - 📫 How to reach me ali_qudah@hotmail.com
 
 <!---
