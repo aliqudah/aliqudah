@@ -21,10 +21,10 @@ I'm passionate about Machine Learning (ML) and Deep Learning (DL) and their tran
 🌍 Connect with Me
 📧 Email: ali_qudah@hotmail.com
 🌐 Website: www.alialqudah.com
-🔗 LinkedIn: Ali Mohammad Alqudah
-📖 Google Scholar: Citations
-📑 ResearchGate: Profile
-🐦 Twitter/X: @amqu92
+🔗 LinkedIn: https://www.linkedin.com/in/alialqudah/
+📖 Google Scholar: https://scholar.google.com/citations?user=YeEyzMYAAAAJ&hl=en
+📑 ResearchGate: https://www.researchgate.net/profile/Ali-Alqudah-3?ev=hdr_xprf
+🐦 Twitter/X: https://x.com/amqu92
 
 🤝 Looking to Collaborate?
 I'm always open to collaborations in ML/DL research, particularly in healthcare AI. Feel free to reach out!
